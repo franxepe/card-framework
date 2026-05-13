@@ -5,6 +5,8 @@
 /** export-ignore
 /addons !export-ignore
 /addons/** !export-ignore
+/example1 !export-ignore
+/example1/** !export-ignore
 
 # Exclude screenshots from Asset Library downloads
 /addons/card-framework/screenshots/** export-ignore
